@@ -1,0 +1,44 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Astolfo Vonz Richmann",
+      "nascimento": "12/12/2004",
+      "profissao": "Programador",
+      "biografia": "Tenho andado demais, agora prefiro correr...",
+      "imagemPerfil": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "2",
+      "nome": "Jubiléia Nascimento",
+      "nascimento": "13/09/1998",
+      "profissao": "Designer",
+      "biografia": "Descobrindo a suiça!!!",
+      "imagemPerfil": "https://images.unsplash.com/photo-1610388814883-288a729a3dda?q=80&w=986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "3",
+      "nome": "Lucas Macedo",
+      "nascimento": "26/03/2006",
+      "profissao": "Artista",
+      "biografia": "Van gogh só amou o amarelo pq n viu o preto dos seus pés 😍",
+      "imagemPerfil": "https://images.unsplash.com/photo-1704291826947-a30746a14739?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "4cc2",
+      "nome": "Ozzy da Silva",
+      "profissao": "Rockeiro",
+      "nascimento": "1999-12-21",
+      "biografia": "Curto a vida adoidado!! well well rock and roll!!!!",
+      "imagemPerfil": "https://images.unsplash.com/photo-1574419040712-50e168ed5f1e?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "d082",
+      "nome": "Aninha Matadora",
+      "profissao": "Influencer de Bitcoin",
+      "nascimento": "2004-02-17",
+      "biografia": "gosto de gatos",
+      "imagemPerfil": "https://images.unsplash.com/photo-1574419040712-50e168ed5f1e?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
